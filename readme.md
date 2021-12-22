@@ -17,4 +17,4 @@
 
 ## Spuštění  ##
 1. `gulp watch` slouží ke spuštění a soustavného hlídání změn a jejich kompilaci
-2. `gulp buld` provede jednorázovou kompilaci 
+2. `gulp build` provede jednorázovou kompilaci 
