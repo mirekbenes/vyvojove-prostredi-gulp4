@@ -1,7 +1,7 @@
 # Jak nainstalovat vývojové prostředí #
 ## Windows ##
 
-1. Nainstalovat [Node.js](https://nodejs.org/en/download/releases/) (ver 16.4.2).
+1. Nainstalovat [Node.js](https://nodejs.org/en/download/releases/) (ver 16.4.2) - pokud je u projektu uvedena jiná verze použít uvedenou.
 2. Spustit Node.js příkazový řádek (součástí instalace)
 3. Nainstalovat globálně gulp `npm install gulp --global`
 4. Nainstalovat gulp (do adresáře s šablonami)
@@ -9,7 +9,7 @@
 
 ## Mac OS ##
 
-1. Nainstalovat [Node.js](https://nodejs.org/en/download/releases/) (ver 16.4.2).
+1. Nainstalovat [Node.js](https://nodejs.org/en/download/releases/) (ver 16.4.2) - pokud je u projektu uvedena jiná verze použít uvedenou.
 2. Spustit Terminál.
 3. Nainstalovat globálně gulp `sudo npm install gulp --global`
 4. Nainstalovat gulp (do adresáře s šablonami)
